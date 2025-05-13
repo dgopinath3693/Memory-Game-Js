@@ -1,1 +1,1 @@
-# Tic-Tac-Toe-in-Js
+# Memory Game Made in Vanilla JS, HTML, CSS
